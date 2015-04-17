@@ -39,7 +39,7 @@ $lang = array_merge($lang, array(
 	'ACP_QUICK_LANGUAGE_SETTINGS_COMMON'				=> '常规设置',
 	'ACP_QUICK_LANGUAGE_SETTINGS_SHOW'				=> '显示设置',
 
-	'ACP_QUICK_LANGUAGE_IS_ENGLISH_SHOW'			=> '秀英语',
+	'ACP_QUICK_LANGUAGE_IS_ENGLISH_SHOW'			=> '显示英语',
 	'ACP_QUICK_LANGUAGE_IS_ENGLISH_SHOW_EXPLAIN'	=> '默认的图标切换到英语将可供选择。 <br />对于讲英语的论坛建议关闭此选项',
 	'ACP_QUICK_LANGUAGE_ALLOW_GUESTS'			=> '让客人改变语言',
 	'ACP_QUICK_LANGUAGE_ALLOW_GUESTS_EXPLAIN'	=> '默认情况下，客人可以更改会议的语言。客人可以选择将在本地浏览器缓存（不支持您的浏览器IE的版本被记住8及以下',
